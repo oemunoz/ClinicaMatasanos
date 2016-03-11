@@ -11,3 +11,8 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+# Eclipse chet
+
+.metadata/*
+app/.project
